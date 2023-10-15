@@ -1,8 +1,9 @@
-# fisrst_app
+# e-commerce
 
 A new Flutter project.
 
 ## Getting Started
+was working on an e-commerce shopping app 
 
 This project is a starting point for a Flutter application.
 
